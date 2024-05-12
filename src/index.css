@@ -1,4 +1,16 @@
+
+
+* {
+
+  font-family: "Corbel","Poppins",sans-serif;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 4px;
+}
+
 body {
+  color: #fff;
+  background-color: #060417;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
