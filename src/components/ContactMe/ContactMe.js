@@ -2,6 +2,7 @@ import React from "react";
 import "./ContactMe.css";
 import "./ContactMeCard/ContactMeCard";
 import ContactMeCard from "./ContactMeCard/ContactMeCard";
+import ContactForm from "./ContactForm/ContactForm";
 
 const ContactMe = () => {
   return (
@@ -18,7 +19,9 @@ const ContactMe = () => {
             text={"github@uta.edu.ec"}
           />
         </div>
-        <div style={{ flex: 1 }}></div>
+        <div style={{ flex: 1 }}>
+            <ContactForm />
+        </div>
       </div>
     </section>
   );
