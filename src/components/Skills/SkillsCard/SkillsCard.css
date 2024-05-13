@@ -1,7 +1,7 @@
 .skills-card {
     border-radius: 0.65rem;
     border: 1.5px solid #6751b9;
-    padding: 2.5rem;
+    padding: 4rem;
     text-align: center;
     background: rgba(22,17,47,0.398);
     backdrop-filter: blur(1rem);
@@ -22,8 +22,8 @@
 }
 .skills-icon{
 
-    width: 4rem;
-    height: 4rem;
+    width: 5rem;
+    height: 5rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -36,7 +36,7 @@
 }
 
 .skills-icon img {
-    width: 2.4rem;
+    width: 3rem;
     height: auto;
     object-fit: contain;
 }
