@@ -5,10 +5,9 @@ const Introduction = () => {
   return (
     <section className="intro-contenedor">
       <div className="intro-contenido">
-        <h2>Desarrollando un mejor futuro</h2>
+        <h2>Hola! Soy JaviF un apasionado del desarrollo web</h2>
         <p>
-          Un apasionado por el desarrollo de aplicaciones web | Transformando
-          pequeñas ideas en grandes proyectos Con estos pasos, deberías poder reducir el tamaño del archivo de imagen javiFiallos.jpg y utilizar la versión reducida en tu aplicación React. Recuerda asegurarte de que la ruta de la imagen esté correctamente actualizada en tu código y que hayas aplicado los estilos CSS necesarios según tus requisitos de diseño.
+        Soy un entusiasta del mundo digital con un enfoque especial en el desarrollo web. Si bien mi dominio del lenguaje Java es sólido, mi verdadera pasión radica en el ámbito del front-end. Me encanta trabajar en la creación de experiencias únicas en línea, explorando nuevas tecnologías y tendencias para hacer que mis páginas destaquen con un estilo distintivo.
         </p>
       </div>
 

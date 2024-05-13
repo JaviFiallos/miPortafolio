@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Introduction from "./components/introduction/Introduction";
 import Skills  from "./components/Skills/Skills";
 import ContactMe from "./components/ContactMe/ContactMe";
+import Pie from "./components/Footer/Pie";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Skills />
         <ContactMe />
       </div>
+      <Pie />
     </div>
   );
 }

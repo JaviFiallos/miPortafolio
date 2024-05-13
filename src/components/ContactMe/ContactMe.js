@@ -23,6 +23,13 @@ const ContactMe = () => {
             <ContactForm />
         </div>
       </div>
+      <div className="iconos-contacto">
+        <button className="boton" id="boton1"></button>
+        <button className="boton" id="boton2"></button>
+        <button className="boton" id="boton3"></button>
+        <button className="boton" id="boton4"></button>
+
+      </div>
     </section>
   );
 };
