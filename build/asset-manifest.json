@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abfda874.css",
+    "main.js": "/static/js/main.df48eaba.js",
+    "static/media/twiterIcon.svg": "/static/media/twiterIcon.671424c6cec59c0682ee.svg",
+    "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.255e171c1e705846c378.svg",
+    "static/media/instagramIcon.svg": "/static/media/instagramIcon.7a7d6424575a1c59f686.svg",
+    "static/media/facebookIcon.svg": "/static/media/facebookIcon.e7ffe252407290d34dcb.svg",
+    "index.html": "/index.html",
+    "main.abfda874.css.map": "/static/css/main.abfda874.css.map",
+    "main.df48eaba.js.map": "/static/js/main.df48eaba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abfda874.css",
+    "static/js/main.df48eaba.js"
+  ]
+}
