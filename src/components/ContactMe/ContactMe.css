@@ -1,0 +1,53 @@
+
+.contact-container {
+    margin: 4rem 0;
+    position: relative;
+
+}
+
+.contact-container h5{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 3rem;
+}
+
+.contact-content {
+    display: flex;
+    gap: 3rem;
+}
+
+.iconos-contacto{
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin:0.5rem;
+}
+
+.boton {
+    width: 100px; /* Ancho de los botones */
+    height: 100px; /* Altura de los botones */
+    background-size: cover; /* Ajustar el tamaño de la imagen para cubrir todo el botón */
+    background-repeat: no-repeat; /* Evitar la repetición de la imagen */
+    background-position: center; /* Centrar la imagen dentro del botón */
+    border: none; /* Quitar el borde del botón */
+    cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+    background: transparent;
+    padding: 2rem;
+    margin: 2rem;
+
+}
+
+#boton1 {
+    background-image: url('../../../public/assets/images/linkedinIcon.svg');
+}
+
+#boton2 {
+    background-image: url('../../../public/assets/images/instagramIcon.svg');
+}
+#boton3 {
+    background-image: url('../../../public/assets/images/twiterIcon.svg');
+}
+#boton4 {
+    background-image: url('../../../public/assets/images/facebookIcon.svg');
+}
